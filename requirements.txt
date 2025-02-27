@@ -1,0 +1,11 @@
+torch 
+torchvision 
+torchaudio
+vgamepad
+numpy
+pytesseract
+opencv-python
+packaging
+gymnasium
+matplotlib
+dxcam

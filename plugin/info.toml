@@ -1,0 +1,8 @@
+[meta]
+name        = "Test Plugin"
+author      = "Timmy"
+category    = "Testing"
+
+[script]
+dependencies = [ "VehicleState", "Camera"  ]
+timeout = 0
